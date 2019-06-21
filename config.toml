@@ -43,12 +43,12 @@ canonifyurls = true
 
 [[menu.main]]
   name = "Portal"
-  weight = -120
+  weight = -110
   identifier = "portal"
   url = "https://tdhttt.com/"
 
 [[menu.main]]
   name = "About me"
-  weight = -110
+  weight = -120
   identifier = "about"
   url = "/about"

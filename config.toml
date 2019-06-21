@@ -9,7 +9,7 @@ Copyright = "All rights reserved - 2019"
 canonifyurls = true
 
 [params]
-  description = "Random thoughts"
+  description = "Random thoughts!!!!!!!!!!!!!!!!!!!!!"
   # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/ppx.jpg"
   author = "Tony Tong"

@@ -12,6 +12,7 @@ canonifyurls = true
   description = "Maybe you should go back to portal."
   # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/ppx.jpg"
+  shareimg = "images/tonytongbigcover.png"
   author = "Tony Tong"
   # authorlocation = "Paris, France"
   authorwebsite = "http://tdhttt.me"

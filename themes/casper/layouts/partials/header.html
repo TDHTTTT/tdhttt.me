@@ -11,8 +11,8 @@
   	<meta property="og:site_name" content="{{ .Site.Title }}" />
   	<meta property="og:url" content="{{ .Permalink }}" />
 
-    {{if .Params.image }}
-       <meta property="og:image" content="{{ .Params.image | relURL}}"/>
+    {{if .Site.Params.shareimg }}
+       <meta property="og:image" content="{{ .Site.Params.shareimg | relURL}}"/>
     {{else}}
         {{if .Site.Params.cover}}
             <meta property="og:image" content="{{ .Site.Params.cover | relURL}}"/>

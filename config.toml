@@ -34,7 +34,7 @@ canonifyurls = true
   # pinterestName = ""
   # googlePlusName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true 
+  hideHUGOSupport = false 
   
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles

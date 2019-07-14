@@ -18,7 +18,7 @@ canonifyurls = true
   authorwebsite = "https://tdhttt.com/"
   authorbio= "Radom thoughts."
   # logo = "images/logo.png"
-  # googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-142543240-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
   githubName = "TDHTTTT"

@@ -1,7 +1,7 @@
 +++
 date = "2018-05-01T14:41:06+02:00"
 draft = false
-image = '/images/cyber.jpg'
+image = '/images/ctf/cyber.jpg'
 slug = "my-first-ctf"
 tags = ["ctf", "security"]
 title = "My first CTF"
@@ -23,11 +23,11 @@ Since I was stuck, I skipped several questions and jumped to the part that I had
 
 I was given a OVA for VirtualBox which serves as a http server. However, it needs username and password to login.
 
-![Username: root; Password: root. Come on.](/images/ctf1.PNG) 
+![Username: root; Password: root. Come on.](/images/ctf/ctf1.PNG) 
 
 Also, when the server is running, I could get access to a webpage which also requires username and password to login in. Will the password be the same?
 
-![](/images/ctf2.PNG)
+![](/images/ctf/ctf2.PNG)
 
 I was very excited, trying to find useful information on the webpage. Then, I came across this comment line hidden in the html file.
 
@@ -37,26 +37,26 @@ The answer, after googling, turns out to be to ask either one, "If I were to ask
 
 So, I tried to go into recovery mode, get the root permission and get whatever files I want. But, no luck... Since it also asks for the password.
 
-![](/images/ctf4.PNG)
+![](/images/ctf/ctf4.PNG)
 
 Then I came across [this article.](https://www.vultr.com/docs/boot-into-single-user-mode-reset-root-password) Following the instruction, I opened up the boot option and appended `init=/bin/bash`.
 
-![](/images/ctf5.PNG) 
+![](/images/ctf/ctf5.PNG) 
 
 Bingo! It worked! Here is the beautiful rooted bash:
 
-![](/images/ctf6.PNG) 
+![](/images/ctf/ctf6.PNG) 
 
 The rest was just a piece of cake: locate the flag file and get the answer. There were even instructions on where to find the flags in the `.hint.txt`.
 
-![](/images/ctf7.PNG)
+![](/images/ctf/ctf7.PNG)
 
 After captured all the five flags, I suddenly came to #2 on the scoreboard. WOW. I told myself, "I am gonna win this." and went to sleep.
 
 The rest of the story, well was not as thrilling. It turned out that the rest of challenge was closely related to crypto. And there was even a bunch of physical challenges, which also asks you to solve a puzzle.
 
-![](/images/ctf8.PNG)
+![](/images/ctf/ctf8.PNG)
 
 I was not really into solving puzzles, well that kind of puzzle. Also, I was pretty busy with my schoolwork. So, yes, I gave up at that point. But I started to wonder if every CTF has such a large portion of crypto. It was a bit **unexpected**.
 
-Header image by [AIR Worldwide](http://www.air-worldwide.com/Software-Solutions/Analytics-of-Risk-from-Cyber/).
+Cover image by [AIR Worldwide](http://www.air-worldwide.com/Software-Solutions/Analytics-of-Risk-from-Cyber/).

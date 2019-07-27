@@ -11,13 +11,13 @@ canonifyurls = true
 [params]
   description = "Random thoughts" 
   # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/ppx.jpg"
-  shareimg = "images/tonytongbigcover.png"
+  cover = "images/smallp-bigm.jpg"
+  shareimg = "images/land_t_dark.png"
   author = "Tony Tong"
   # authorlocation = "Paris, France"
   authorwebsite = "https://tdhttt.com/"
   authorbio= "Radom thoughts."
-  # logo = "images/logo.png"
+  logo = "images/logo.png"
   googleAnalyticsUserID = "UA-142543240-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."

@@ -11,7 +11,7 @@ canonifyurls = true
 [params]
   description = "Random thoughts" 
   # metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/smallp-bigm-c.jpg"
+  cover = "images/smallp-bigm-small.jpg"
   shareimg = "images/land_t_dark.png"
   author = "Tony Tong"
   # authorlocation = "Paris, France"

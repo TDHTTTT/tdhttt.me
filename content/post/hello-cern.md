@@ -18,7 +18,7 @@ Anyways, thanks to the invitation from Professor [Daniel Whiteson](https://www.p
 People say that CERN looks like a university. I agree. It has a library, cafeteria, lecture halls and an unassumingly-looking 27-km (circumference) circular ring with perfect vacuum and a temperature of 1.9k, colder than the outer space. Just normal stuff you can find in a university. My life here is not unlike the one in a university, with 3 lectures in the morning and research in the afternoon.  
 
 ### Summer Student Lectures Are Great
-![An image of the lecture hall.](/images/hello-cern/lec.JPG)
+![An image of the lecture hall.](/images/hello-cern/lec.jpg)
 
 Although I am not a summer student, I totally enjoy the lectures! The lectures cover a wide range of topics from theoretical foundations to experimental techniques, from statistics to engineering challenges. The lectures are usually dense but excellent. In case you are interested, the [recordings and slides](https://indico.cern.ch/category/345/) are freely available for anyone. The lectures are sometimes so fast that I have to re-watch the video to fully grasp the idea. By the way, thank you, all the organizers and lecturers of the summer student programme. You did a great job! 
 
